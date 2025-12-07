@@ -1,6 +1,6 @@
 # Run Microservices
 1. Move to accounts servoice folder
-    ``cd accounts``
+    ``cd docker-compose/default``
 2. Run docker command 
     ``docker-compose up -d``
 # Important Links
